@@ -2,7 +2,7 @@ package api
 
 import (
 	"fmt"
-	"freshdesk/models"
+	"freshdesk_api/models"
 )
 
 //FreshDeskClient stores the api key
