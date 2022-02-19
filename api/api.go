@@ -2,7 +2,7 @@ package api
 
 import (
 	"fmt"
-	"powergen/freshdesk/models"
+	"freshdesk/models"
 )
 
 //FreshDeskClient stores the api key

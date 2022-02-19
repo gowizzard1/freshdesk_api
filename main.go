@@ -3,9 +3,9 @@ package main
 import (
 	"context"
 	"fmt"
+	"freshdesk_api/appconfig"
 	"net/http"
 	"os"
-	"powergen/freshdesk/appconfig"
 
 	"github.com/gorilla/mux"
 	"github.com/jinzhu/gorm"
